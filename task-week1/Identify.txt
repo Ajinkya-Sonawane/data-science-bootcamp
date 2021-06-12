@@ -1,5 +1,5 @@
 Please enter your details:
 
-Name: 
-NETID:
-Favorite book and author: 
+Name: Ajinkya Sonawane
+NETID: avs8687
+Favorite book and author: The Intelligent Investor - Benjamin Graham
